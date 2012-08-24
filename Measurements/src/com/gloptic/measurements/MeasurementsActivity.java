@@ -25,7 +25,11 @@ import com.gloptic.measurements.database.MeasurementsTable;
  * 
  * You can create new ones via the ActionBar entry "Insert"
  * You can delete existing ones via a long press on the item
+ *
+ * 
  */
+
+//test
 
 public class MeasurementsActivity extends ListActivity implements
     LoaderManager.LoaderCallbacks<Cursor> {
